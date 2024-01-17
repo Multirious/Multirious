@@ -11,7 +11,7 @@ I'm a generalist hobbyist certified code writer, game developer, and artist/desi
 
 I like to work on what randomly interests me and solve my own problems from time to time.
 
-Self-taught? Some of it but come on:
+Self-taught? Some of it, but, come on:
 - Google
 - Random website found after goolging
 - The open-source community and their documentation
