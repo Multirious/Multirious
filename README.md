@@ -16,7 +16,8 @@ Self-taught? Some of it, but, come on:
 - Random website found after goolging
 - The open-source community and their documentation
 - And of course everything that got paid by my parents (pc, internet bills. thing ain't possible without this one)
-My appreciation goes for the above list.
+
+My appreciation goes for these lovely people in the list.
 
 ---
 
