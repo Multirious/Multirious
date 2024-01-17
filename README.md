@@ -9,6 +9,8 @@
 
 I'm a generalist hobbyist certified code writer, game developer, and artist/designer.
 
+I learnt everything thought my parent's internet bills.
+
 I like to work on what randomly interests me and solve my own problems from time to time.
 
 ---
