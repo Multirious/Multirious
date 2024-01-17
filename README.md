@@ -9,9 +9,14 @@
 
 I'm a generalist hobbyist certified code writer, game developer, and artist/designer.
 
-I learnt everything thought my parent's internet bills.
-
 I like to work on what randomly interests me and solve my own problems from time to time.
+
+Self-taught? Some of it but come on:
+- Google
+- Random website found after goolging
+- The open-source community and their documentation
+- And of course everything that got paid by my parents (pc, internet bills. thing ain't possible without this one)
+My appreciation goes for the above list.
 
 ---
 
