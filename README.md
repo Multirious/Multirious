@@ -41,3 +41,4 @@ I like to work on what randomly interests me and solve my own problems from time
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux logo" width=50 height=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="window logo" width=50 height=50 />
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=multirious&style=for-the-badge)
