@@ -15,7 +15,12 @@ I like to work on what randomly interests me and solve my own problems from time
 
 #### [📝] Languages
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" alt="rust logo" width=50 height=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" width=50 height=50 />
+<img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" alt="rust logo" width=50 height=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo" width=50 height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java logo" width=50 height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp logo" width=50 height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c plus plus logo" width=50 height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html logo" width=50 height=50 />
+<img src="https://cdn.worldvectorlogo.com/logos/scratch-cat.svg" alt="scratch logo" width=50 height=50 />
 
 #### [🧰] Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" width=50 height=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql logo" width=50 height=50 />
