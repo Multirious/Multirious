@@ -15,6 +15,7 @@ Self-taught? Some of it, but, come on:
 - Google
 - Random website found after goolging
 - The open-source community and their documentation
+- My school (only just a little pinch of knowledge but sure it's something I guess)
 - And of course everything that got paid by my parents (pc, internet bills. thing ain't possible without this one)
 
 My appreciation goes for these lovely people in the list.
