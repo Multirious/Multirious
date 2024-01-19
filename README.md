@@ -30,6 +30,7 @@ My appreciation goes for these lovely people in the list.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c plus plus logo" width=50 height=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html logo" width=50 height=50 />
 <img src="https://cdn.worldvectorlogo.com/logos/scratch-cat.svg" alt="scratch logo" width=50 height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width=50 height=50 />
 
 #### [🧰] Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" width=50 height=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql logo" width=50 height=50 />
