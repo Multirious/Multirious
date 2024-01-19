@@ -30,7 +30,7 @@ My appreciation goes for these lovely people in the list.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c plus plus logo" width=50 height=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html logo" width=50 height=50 />
 <img src="https://cdn.worldvectorlogo.com/logos/scratch-cat.svg" alt="scratch logo" width=50 height=50 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width=50 height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="lua logo" width=50 height=50 />
 
 #### [🧰] Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git logo" width=50 height=50 /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="postgresql logo" width=50 height=50 />
@@ -44,7 +44,7 @@ My appreciation goes for these lovely people in the list.
 <img src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="discord logo" width=50 height=50 />
 <img src="https://github.com/helix-editor/helix/blob/master/logo.svg" alt="helix editor logo" width=50 height=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode logo" width=50 height=50 />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width=50 height=50 />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim logo" width=50 height=50 />
 
 #### [🖥️] Platforms
 
