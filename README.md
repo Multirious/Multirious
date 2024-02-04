@@ -6,7 +6,7 @@
 
 <img src="https://i.pinimg.com/originals/be/b5/41/beb541eeb1ee06ba00ef55d5baa60773.gif" alt="welcome" width=20% /> <img src="https://github.com/Multirious/Multirious/assets/77918086/626e2dcd-6f3a-4b14-afee-151a70d61fe9)" alt="emoji standing" width=20% />
 
-(words incoming) I'm a generalist self-taught hobbyist certified code writer, game developer, and artist/designer.
+(words incoming) I'm a generalist self-taught hobbyist certified code writer, game developer, music composer, and artist/designer.
 
 I like to work on what randomly interests me and solve my own problems from time to time.
 
