@@ -9,6 +9,8 @@
 (words incoming) I'm a generalist self-taught hobbyist certified code writer, game developer, music composer, and artist/designer.
 
 I like to work on what randomly interests me and solve my own problems from time to time.
+Suffers from seasonal burnout to everything I do.
+Have a primal interest to make library APIs feels nice and flexible.
 
 ---
 
